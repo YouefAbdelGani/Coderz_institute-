@@ -1,1 +1,2 @@
-
+(title )==> used for browser tab
+(h1>)==> used for main title  
